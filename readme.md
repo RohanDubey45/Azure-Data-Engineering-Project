@@ -41,7 +41,7 @@ It ingests data from multiple sources, performs processing, and loads data into 
 
 ---
 
-## 🔄 Git Workflow
+## Git Workflow
 - Collaboration branch: `main`
 - Publish branch: `adf_publish`
 
