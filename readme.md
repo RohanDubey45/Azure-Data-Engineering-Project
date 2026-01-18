@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project demonstrates an end-to-end **Azure Data Engineering pipeline** using **Azure Data Factory (ADF)**.  
-It ingests data from multiple sources, performs processing, and loads data into a target system for analytics.
+It ingests data from multiple sources, performs processing, and loads data into a target system for analytics using **Medallion Architecture**.
 
 ---
 
